@@ -1,4 +1,4 @@
-# 💻 UI/UX Designs by [Your Name]
+# 💻 UI/UX Designs by Frosty
 
 Welcome to my GitHub repository where I share my UI/UX design projects. I specialize in creating visually appealing, user-friendly interfaces that solve real-world problems. My goal is to deliver clean, effective designs that enhance the user experience for various applications and websites.
 
