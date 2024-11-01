@@ -27,8 +27,8 @@ Here, you’ll find a selection of my UI/UX projects, including case studies, wi
 
 Looking to collaborate or need help with a UI/UX project? Feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:shanew.2026@mtchs.org)
-- **Portfolio**: [YourPortfolioWebsite.com](https://frosty.bio)
+- **Email**: [shanew.2026@mtchs.org](mailto:shanew.2026@mtchs.org)
+- **Portfolio**: [frosty.bio](https://frosty.bio)
 
 ---
 
